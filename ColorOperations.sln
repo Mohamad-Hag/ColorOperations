@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ColorOperations", "ColorOperations\ColorOperations.csproj", "{5888173A-8172-48D8-BE28-0934EDEF55B7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5888173A-8172-48D8-BE28-0934EDEF55B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5888173A-8172-48D8-BE28-0934EDEF55B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5888173A-8172-48D8-BE28-0934EDEF55B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5888173A-8172-48D8-BE28-0934EDEF55B7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2E6D9202-8474-42F6-BB78-1C890B9247A1}
+	EndGlobalSection
+EndGlobal
