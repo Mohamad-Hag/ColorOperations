@@ -16,7 +16,7 @@ HEX hex = ColorConverter.FromRGBToHEX(r, g, b); // Returns an object of type HEX
 #### Example:
 ```
 string hex = "#ffffff"; // OR ffffff OR #FFFFFF OR FFFFFF
-RGB rgb = ColorConverter.FromHexToRGB(hex);; // Returns an object of type RGB
+RGB rgb = ColorConverter.FromHexToRGB(hex); // Returns an object of type RGB
 ```
 - RGB --> HSL
 #### Example:
